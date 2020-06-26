@@ -1,124 +1,14 @@
-<rss version="2.0">
-<channel>
-<item>
-<title>Code samples for Microsoft identity platform</title>
-<description>Provides an index of available Microsoft identity platform (v2.0 endpoint) code samples, organized by scenario.</description>
-<link>https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code</link>
-<pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Consume web service - ML Studio (classic) - Azure</title>
-<description>Once a machine learning service is deployed from Azure Machine Learning Studio (classic), the RESTFul Web service can be consumed either as real-time request-response service or as a batch execution service.</description>
-<link>https://docs.microsoft.com/en-us/azure/machine-learning/studio/consume-web-services</link>
-<pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Azure Application Insights for ASP.NET Core applications - Azure Monitor</title>
-<description>Monitor ASP.NET Core web applications for availability, performance, and usage.</description>
-<link>https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core</link>
-<pubDate>Thu, 30 Apr 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Set up clusters in HDInsight with Apache Hadoop, Apache Spark, Apache Kafka, and more</title>
-<description>Set up Hadoop, Kafka, Spark, HBase, R Server, or Storm clusters for HDInsight from a browser, the Azure classic CLI, Azure PowerShell, REST, or SDK.</description>
-<link>https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-provision-linux-clusters</link>
-<pubDate>Thu, 30 Apr 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Use feature filters to enable a feature for a subset of users - Azure App Configuration</title>
-<description>Learn how to use feature filters to enable a feature for a subset of users</description>
-<link>https://docs.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-aspnet-core</link>
-<pubDate>Mon, 09 Mar 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Build a multitenant daemon that uses the Microsoft identity platform endpoint</title>
-<description>In this tutorial, learn how to call an ASP.NET web API protected by Azure Active Directory from a Windows desktop (WPF) application. The WPF client authenticates a user, requests an access token, and calls the web API.</description>
-<link>https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-aspnet-daemon-web-app</link>
-<pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Guide for authenticating Azure SignalR Service clients</title>
-<description>Learn how to implement your own authentication and integrate it with Azure SignalR Service by following the e2e example.</description>
-<link>https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-concept-authenticate-oauth</link>
-<pubDate>Wed, 13 Nov 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Move a daemon app that calls web APIs to production - Microsoft identity platform</title>
-<description>Learn how to move a daemon app that calls web APIs to production</description>
-<link>https://docs.microsoft.com/en-us/azure/active-directory/develop/scenario-daemon-production</link>
-<pubDate>Wed, 30 Oct 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>QuickStart: Windows container (Preview) - Azure App Service</title>
-<description>Deploy your first custom Windows container to Azure App Service. Take advantage of containerization, customize the Windows container the way you like it.</description>
-<link>https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-windows-container</link>
-<pubDate>Fri, 30 Aug 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Add sign-in to Microsoft identity platform ASP.NET web app - Microsoft identity platform</title>
-<description>Implementing Microsoft sign-in on an ASP.NET solution by using a traditional web browser-based application and OpenID Connect standard</description>
-<link>https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-asp-webapp</link>
-<pubDate>Wed, 28 Aug 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Develop secure applications on Microsoft Azure</title>
-<description>This article discusses best practices to consider during the implementation and verification phases of your web application project.</description>
-<link>https://docs.microsoft.com/en-us/azure/security/develop/secure-develop</link>
-<pubDate>Wed, 12 Jun 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Understand and solve Azure AD Application Proxy CORS issues</title>
-<description>Provides an understanding of CORS in Azure AD Application Proxy, and how to identify and solve CORS issues.</description>
-<link>https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/application-proxy-understand-cors-issues</link>
-<pubDate>Thu, 23 May 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>FAQ about Windows VMs in Azure - Azure Windows Virtual Machines</title>
-<description>Provides answers to some of the common questions about Windows virtual machines created with the Resource Manager model.</description>
-<link>https://docs.microsoft.com/en-us/azure/virtual-machines/windows/faq</link>
-<pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Develop with ASP.NET - Azure SignalR Service</title>
-<description>A quickstart for using Azure SignalR Service to create a chat room with ASP.NET framework.</description>
-<link>https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-dotnet</link>
-<pubDate>Sat, 20 Apr 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Send notifications to specific users using Azure Notification Hubs</title>
-<description>Learn how to send notifications to specific users using Universal Windows Platform (UWP) applications.</description>
-<link>https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-aspnet-backend-windows-dotnet-wns-notification</link>
-<pubDate>Fri, 22 Mar 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Tutorial: Use App Configuration dynamic configuration in ASP.NET Core - Azure App Configuration</title>
-<description>In this tutorial, you learn how to dynamically update the configuration data for ASP.NET Core apps</description>
-<link>https://docs.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-core</link>
-<pubDate>Sun, 24 Feb 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Azure Notification Hubs Rich Push</title>
-<description>Learn how to send rich push notifications to an iOS app from Azure. Code samples written in Objective-C and C#.</description>
-<link>https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-aspnet-backend-ios-apple-push-notification-service-apns-rich</link>
-<pubDate>Fri, 04 Jan 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Register the current user for push notifications by using Web API</title>
-<description>Learn how to request push notification registration in an iOS app with Azure Notification Hubs when registration is performed by ASP.NET Web API.</description>
-<link>https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-ios-aspnet-register-user-from-backend-to-push-notification</link>
-<pubDate>Fri, 04 Jan 2019 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Azure Functions F# developer reference</title>
-<description>Understand how to develop Azure Functions using F# script.</description>
-<link>https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-fsharp</link>
-<pubDate>Tue, 09 Oct 2018 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>AspNetCompiler.TargetFrameworkMoniker Property (Microsoft.Build.Tasks)</title>
-<description>Gets or sets the TargetFrameworkMoniker indicating which .NET Framework version of aspnet_compiler.exe should be used. </description>
-<link>https://docs.microsoft.com/en-us/dotnet/api/microsoft.build.tasks.aspnetcompiler.targetframeworkmoniker</link>
-<pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
-</item>
-</channel>
-</rss>
+ <entry>
+ <id>https://www.example.com/feed/item/100/</id>
+ <pubDate>2018-11-09T07:47:25Z</pubDate>
+ <updated>2018-11-23T04:57:42Z</updated>
+ <link rel="alternate" type="text/html" href="https://www.example.com/feed/item/100/"/>
+ <title>Example Feed Content Item 100</title>
+ <content type="html">
+ <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus dui ligula.</p>]]>
+ </content>
+ <category term="11" label="Dummy Content"/>
+ <author>
+ <name>Example Feed Content</name>
+ </author>
+ </entry>
