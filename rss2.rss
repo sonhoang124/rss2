@@ -6,6 +6,7 @@
 <generator>umbraco</generator>
 <description>ASP.NET Content</description>
 <language>en</language>
+<atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>
 Two-factor authentication using SMS and email with ASP.NET Identity
@@ -21,5 +22,3 @@ This tutorial will show you how to set up Two-factor authentication (2FA) using 
 ]]>
 </description>
 </item>
- </channel>
-</rss>
