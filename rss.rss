@@ -6,7 +6,6 @@
 <generator>umbraco</generator>
 <description>ASP.NET Content</description>
 <language>en</language>
-<atom:link href="http://www.asp.net/rss/content" rel="self" type="application/rss+xml"/>
 <item>
 <title>
 Two-factor authentication using SMS and email with ASP.NET Identity
