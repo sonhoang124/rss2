@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <entry>
  <id>https://www.example.com/feed/item/100/</id>
- <pubDate>2018-11-09T07:47:25Z</pubDate>
+ <pubdate>2018-11-09T07:47:25Z</pubdate>
  <updated>2018-11-23T04:57:42Z</updated>
  <link rel="alternate" type="text/html" href="https://www.example.com/feed/item/100/"/>
  <title>Example Feed Content Item 100</title>
