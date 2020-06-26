@@ -1,15 +1,26 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<entry>
- <id>https://www.example.com/feed/item/100/</id>
- <pubdate>2018-11-09T07:47:25Z</pubdate>
- <updated>2018-11-23T04:57:42Z</updated>
- <link rel="alternate" type="text/html" href="https://www.example.com/feed/item/100/"/>
- <title>Example Feed Content Item 100</title>
- <content type="html">
- <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus dui ligula.</p>]]>
- </content>
- <category term="11" label="Dummy Content"/>
- <author>
- <name>Example Feed Content</name>
- </author>
- </entry>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>ASP.NET Content</title>
+<link>http://www.asp.net</link>
+<pubDate>Thu, 26 Jun 2014 00:00:00 -0400</pubDate>
+<generator>umbraco</generator>
+<description>ASP.NET Content</description>
+<language>en</language>
+<atom:link href="http://www.asp.net/rss/content" rel="self" type="application/rss+xml"/>
+<item>
+<title>
+Two-factor authentication using SMS and email with ASP.NET Identity
+</title>
+<link>
+http://www.asp.net/identity/overview/features-api/two-factor-authentication-using-sms-and-email-with-aspnet-identity
+</link>
+<pubDate>Thu, 26 Jun 2014 00:00:00 -0400</pubDate>
+<guid isPermaLink="false">00000000-0000-0000-0000000057785</guid>
+<description>
+<![CDATA[
+This tutorial will show you how to set up Two-factor authentication (2FA) using SMS and email. This article was written by Rick Anderson ( @RickAndMSFT ), Pranav Rastogi ( @rustd ), Hao Kung, and S...
+]]>
+</description>
+</item>
+ </channel>
+</rss>
